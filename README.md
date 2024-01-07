@@ -1,4 +1,4 @@
-# React Chat App : https://gauravsinghgkp.github.io/React-Chat-App/#/
+## React Chat App : https://gauravsinghgkp.github.io/React-Chat-App/#/
 
 This messaging application, built using React, allows users to chat with friends, manage conversations, and maintain data persistence. Leveraging React Router for navigation, React Hooks for state management, and Redux for seamless data retention even after a page refresh.
 
